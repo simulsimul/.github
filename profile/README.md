@@ -9,10 +9,11 @@ Based on the collected data, a machine learning model was trained and then deplo
 📄 [Visit our notion for more detail!](https://sparkly-onion-be7.notion.site/MazeSimul-2378e2ec5d7a8096aeaae80c80a3efa6?source=copy_link)
 
 ### Members
-<img src='./assets/members.jpg' width=580><br><br>
+<img src='https://github.com/simulsimul/webot_simulation/tree/672bf01c05c28083ee44f6e1c61ac81ef31102f8/assets/members.png' width=580><br><br>
+https://github.com/simulsimul/webot_simulation/blob/672bf01c05c28083ee44f6e1c61ac81ef31102f8/assets/members.png
 
 ### Tech Stack
-<img src='./assets/members.jpg' width=580><br><br>
+<img src='./.github/assets/techstack.png' width=580><br><br>
 
 ## How to Run
 
