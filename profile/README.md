@@ -6,7 +6,7 @@ The main objective is to enable the robot to follow the left wall in a maze envi
 Both rule-based and PID controllers were first implemented and tested in the Webots simulator.
 Based on the collected data, a machine learning model was trained and then deployed to a real TurtleBot3 using ROS2.
 
-📄 [Visit our notion for more detail!](https://sparkly-onion-be7.notion.site/MazeSimul-2378e2ec5d7a8096aeaae80c80a3efa6?source=copy_link)
+📄 [Visit our notion for more detail!](https://sparkly-onion-be7.notion.site/MazeSimul-2378e2ec5d7a8096aeaae80c80a3efa6?source=copy_link)<br><br>
 
 ## How to Run
 
