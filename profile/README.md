@@ -12,7 +12,7 @@ Webots 시뮬레이터 상에서에서  rule-based 제어기를 구현하고, �
 ### Tech Stack
 <img src='./assets/members.jpg' width=580><br><br>
 
-### How to Run
+## How to Run
 
 To deploy and run the wall-following controller on the actual TurtleBot3 hardware, follow the steps below :<br><br>
 **✅ Step 1: Configure Wi-Fi on Raspberry Pi**
